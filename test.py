@@ -16,6 +16,7 @@ for i in mapping:
 #         mapping = mapping
 # print(mapping)
 
+
 # new_key = list(mapping.keys())
 # new_value = list(mapping.values())
 # print(new_key, new_value)
